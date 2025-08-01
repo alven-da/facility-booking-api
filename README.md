@@ -1,4 +1,4 @@
-# Sports Booking API
+# Facility Booking API
 
 A simple sports facility booking/reservation API.
 
